@@ -1,1 +1,42 @@
-
+[
+  {
+    "name": "strategy",
+    "color": "0e8a16",
+    "description": "Strategic initiative or recommendation"
+  },
+  {
+    "name": "in-progress",
+    "color": "fbca04",
+    "description": "Currently being worked on"
+  },
+  {
+    "name": "completed",
+    "color": "1d76db",
+    "description": "Successfully completed"
+  },
+  {
+    "name": "blocked",
+    "color": "e11d21",
+    "description": "Work cannot proceed due to a blocker"
+  },
+  {
+    "name": "marketing",
+    "color": "5319e7",
+    "description": "Related to customer acquisition, branding, or promotion"
+  },
+  {
+    "name": "technical",
+    "color": "0052cc",
+    "description": "Involves tech implementation (e.g. site, tools, support)"
+  },
+  {
+    "name": "low-effort",
+    "color": "fef2c0",
+    "description": "Quick win, minimal time or cost"
+  },
+  {
+    "name": "high-impact",
+    "color": "b60205",
+    "description": "High revenue or growth potential"
+  }
+]
