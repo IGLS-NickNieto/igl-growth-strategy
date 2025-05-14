@@ -16,8 +16,8 @@ Create a website
 - **Time to Complete:30 Days**
 
 ## Tasks
-- [ Task ] Step 1
-- [ Test ] Step 2
+- [ ] Step 1
+- [ ] Step 2
 - [ ] Test 3
 
 ## Notes
